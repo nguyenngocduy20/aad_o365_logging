@@ -1,0 +1,5 @@
+input { stdin { } }
+output {
+  stdout { codec => rubydebug }
+  redis { host => "172.17.0.2:6379" data_type => "list" key => "logstash" }
+}

@@ -1,0 +1,720 @@
+[
+   {
+      "OrganizationId": "f25d48e2-7067-4495-b6ee-662ebbcf17d3",
+      "ResultStatus": "Succeeded",
+      "LogonUserSid": "S-1-5-21-1891582377-245995859-4138830119-8684406",
+      "RecordType": 2,
+      "OrganizationName": "FPTISEnterprise.onmicrosoft.com",
+      "MailboxOwnerUPN": "sysadmin@FPTISEnterprise.onmicrosoft.com",
+      "UserType": 0,
+      "LogonType": 0,
+      "InternalLogonType": 0,
+      "MailboxOwnerSid": "S-1-5-21-1891582377-245995859-4138830119-8684406",
+      "UserKey": "10037FFE9B90944D",
+      "ExternalAccess": false,
+      "UserId": "sysadmin@FPTISEnterprise.onmicrosoft.com",
+      "CreationTime": "2017-05-16T06:29:30",
+      "Workload": "Exchange",
+      "OriginatingServer": "HK2PR01MB1028",
+      "Id": "193fa08a-019f-4012-4a30-08d49c24e8bb",
+      "ClientInfoString": "Client=/owa/SuiteServiceProxy.aspx; Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+      "ClientIPAddress": "118.69.37.9",
+      "Version": 1,
+      "Operation": "MailboxLogin",
+      "MailboxGuid": "4e1b3fd6-ed36-4993-bfe6-315f7a227c3a"
+   },
+   {
+      "OrganizationId": "f25d48e2-7067-4495-b6ee-662ebbcf17d3",
+      "ResultStatus": "True",
+      "ExternalAccess": false,
+      "ObjectId": "Hybrid Migration Endpoint - mail.fptsi.vn",
+      "UserKey": "10037FFE9B90944D",
+      "Workload": "Exchange",
+      "RecordType": 1,
+      "OriginatingServer": "HK2PR01MB1028 (15.01.1084.000)",
+      "OrganizationName": "FPTISEnterprise.onmicrosoft.com",
+      "UserType": 2,
+      "Id": "080c57bb-ed6c-4fca-ed4a-08d49c33c49e",
+      "Parameters": [
+         {
+            "Value": "System.Management.Automation.PSCredential",
+            "Name": "Credentials"
+         },
+         {
+            "Value": "Hybrid Migration Endpoint - mail.fptsi.vn",
+            "Name": "Identity"
+         }
+      ],
+      "UserId": "sysadmin@FPTISEnterprise.onmicrosoft.com",
+      "Version": 1,
+      "Operation": "Set-MigrationEndpoint",
+      "CreationTime": "2017-05-16T08:15:52"
+   },
+   {
+      "OrganizationId": "f25d48e2-7067-4495-b6ee-662ebbcf17d3",
+      "ResultStatus": "Succeeded",
+      "LogonUserSid": "S-1-5-21-1891582377-245995859-4138830119-8684406",
+      "RecordType": 2,
+      "OrganizationName": "FPTISEnterprise.onmicrosoft.com",
+      "MailboxOwnerUPN": "sysadmin@FPTISEnterprise.onmicrosoft.com",
+      "UserType": 0,
+      "LogonType": 0,
+      "InternalLogonType": 0,
+      "MailboxOwnerSid": "S-1-5-21-1891582377-245995859-4138830119-8684406",
+      "UserKey": "10037FFE9B90944D",
+      "ExternalAccess": false,
+      "UserId": "sysadmin@FPTISEnterprise.onmicrosoft.com",
+      "CreationTime": "2017-05-16T08:14:17",
+      "Workload": "Exchange",
+      "OriginatingServer": "HK2PR01MB1028",
+      "Id": "62510147-dfc2-4d30-5da1-08d49c338c06",
+      "ClientInfoString": "Client=/ecp/; Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36",
+      "ClientIPAddress": "118.69.37.9",
+      "Version": 1,
+      "Operation": "MailboxLogin",
+      "MailboxGuid": "4e1b3fd6-ed36-4993-bfe6-315f7a227c3a"
+   },
+   {
+      "OrganizationId": "f25d48e2-7067-4495-b6ee-662ebbcf17d3",
+      "ResultStatus": "Succeeded",
+      "LogonUserSid": "S-1-5-21-1891582377-245995859-4138830119-8684406",
+      "RecordType": 2,
+      "OrganizationName": "FPTISEnterprise.onmicrosoft.com",
+      "MailboxOwnerUPN": "sysadmin@FPTISEnterprise.onmicrosoft.com",
+      "UserType": 0,
+      "LogonType": 0,
+      "InternalLogonType": 0,
+      "MailboxOwnerSid": "S-1-5-21-1891582377-245995859-4138830119-8684406",
+      "UserKey": "10037FFE9B90944D",
+      "ExternalAccess": false,
+      "UserId": "sysadmin@FPTISEnterprise.onmicrosoft.com",
+      "CreationTime": "2017-05-16T08:14:05",
+      "Workload": "Exchange",
+      "OriginatingServer": "HK2PR01MB1028",
+      "Id": "fb0ebbb8-b835-4d15-40d6-08d49c3384b8",
+      "ClientInfoString": "Client=/owa/SuiteServiceProxy.aspx; Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36",
+      "ClientIPAddress": "118.69.37.9",
+      "Version": 1,
+      "Operation": "MailboxLogin",
+      "MailboxGuid": "4e1b3fd6-ed36-4993-bfe6-315f7a227c3a"
+   },
+   {
+      "OrganizationId": "f25d48e2-7067-4495-b6ee-662ebbcf17d3",
+      "ResultStatus": "True",
+      "ExternalAccess": false,
+      "ObjectId": "",
+      "UserKey": "10037FFE9B90944D",
+      "Workload": "Exchange",
+      "RecordType": 1,
+      "OriginatingServer": "HK2PR01MB1028 (15.01.1084.000)",
+      "OrganizationName": "FPTISEnterprise.onmicrosoft.com",
+      "UserType": 2,
+      "Id": "a590d2f5-0d52-4a89-fb98-08d49c33e50a",
+      "Parameters": [
+         {
+            "Value": "fis-oncloud",
+            "Name": "Name"
+         },
+         {
+            "Value": "sysadmin@FPTISEnterprise.onmicrosoft.com",
+            "Name": "NotificationEmails"
+         },
+         {
+            "Value": "True",
+            "Name": "AutoStart"
+         },
+         {
+            "Value": "10",
+            "Name": "BadItemLimit"
+         },
+         {
+            "Value": "RW1haWxBZGRyZXNzDQpmaXMtb25jbG91ZEBmcHRzaS52bg==...",
+            "Name": "CSVData"
+         },
+         {
+            "Value": "SE Asia Standard Time",
+            "Name": "TimeZone"
+         },
+         {
+            "Value": "Hybrid Migration Endpoint - mail.fptsi.vn",
+            "Name": "SourceEndpoint"
+         },
+         {
+            "Value": "FPTISEnterprise.mail.onmicrosoft.com",
+            "Name": "TargetDeliveryDomain"
+         }
+      ],
+      "UserId": "sysadmin@FPTISEnterprise.onmicrosoft.com",
+      "Version": 1,
+      "Operation": "New-MigrationBatch",
+      "CreationTime": "2017-05-16T08:16:46"
+   },
+   {
+      "OrganizationId": "f25d48e2-7067-4495-b6ee-662ebbcf17d3",
+      "ResultStatus": "True",
+      "ExternalAccess": false,
+      "ObjectId": "fis-oncloud",
+      "UserKey": "10037FFE9B90944D",
+      "Workload": "Exchange",
+      "RecordType": 1,
+      "OriginatingServer": "HK2PR01MB1028 (15.01.1084.000)",
+      "OrganizationName": "FPTISEnterprise.onmicrosoft.com",
+      "UserType": 2,
+      "Id": "f0667bea-b1f2-43c7-4fc9-08d49c39a4cc",
+      "Parameters": [
+         {
+            "Value": "fis-oncloud",
+            "Name": "Identity"
+         }
+      ],
+      "UserId": "sysadmin@FPTISEnterprise.onmicrosoft.com",
+      "Version": 1,
+      "Operation": "Complete-MigrationBatch",
+      "CreationTime": "2017-05-16T08:57:55"
+   },
+   {
+      "OrganizationId": "f25d48e2-7067-4495-b6ee-662ebbcf17d3",
+      "ResultStatus": "True",
+      "ExternalAccess": true,
+      "ObjectId": "DB#543be482-4cac-4569-9f18-a35b58f69114\\65f1b9d5-b40f-47f3-b3bb-2302ec3ec191",
+      "UserKey": "NT AUTHORITY\\SYSTEM (Microsoft.Exchange.ServiceHost)",
+      "Workload": "Exchange",
+      "RecordType": 1,
+      "OriginatingServer": "SG2PR01MB0425 (15.01.1084.000)",
+      "OrganizationName": "FPTISEnterprise.onmicrosoft.com",
+      "UserType": 3,
+      "Id": "094ae1d4-6a86-4a8d-c0af-08d49c39c01f",
+      "Parameters": [
+         {
+            "Value": "FPTISEnterprise.onmicrosoft.com\\f8446788-373e-4e95-9fdd-92d7d06eed99",
+            "Name": "Identity"
+         },
+         {
+            "Value": "MigrationService:fis-oncloud",
+            "Name": "BatchName"
+         },
+         {
+            "Value": "mail.fptsi.vn",
+            "Name": "RemoteHostName"
+         },
+         {
+            "Value": "System.Management.Automation.PSCredential",
+            "Name": "RemoteCredential"
+         },
+         {
+            "Value": "10",
+            "Name": "BadItemLimit"
+         },
+         {
+            "Value": "0",
+            "Name": "LargeItemLimit"
+         },
+         {
+            "Value": "",
+            "Name": "StartAfter"
+         },
+         {
+            "Value": "5/16/2017 8:57:55 AM",
+            "Name": "CompleteAfter"
+         }
+      ],
+      "UserId": "NT AUTHORITY\\SYSTEM (Microsoft.Exchange.ServiceHost)",
+      "Version": 1,
+      "Operation": "Set-MoveRequest",
+      "CreationTime": "2017-05-16T08:58:41"
+   },
+   {
+      "OrganizationId": "f25d48e2-7067-4495-b6ee-662ebbcf17d3",
+      "ResultStatus": "Succeeded",
+      "LogonUserSid": "S-1-5-21-1891582377-245995859-4138830119-9387332",
+      "RecordType": 2,
+      "OrganizationName": "fptsi.vn",
+      "MailboxOwnerUPN": "duynn@fptsi.vn",
+      "UserType": 0,
+      "LogonType": 0,
+      "InternalLogonType": 0,
+      "MailboxOwnerSid": "S-1-5-21-1891582377-245995859-4138830119-9387332",
+      "UserKey": "10033FFF9F53F6F8",
+      "ExternalAccess": false,
+      "UserId": "duynn@fptsi.vn",
+      "CreationTime": "2017-05-17T01:11:58",
+      "Workload": "Exchange",
+      "OriginatingServer": "KL1PR01MB0997",
+      "Id": "9646e92d-c92a-40c6-f5da-08d49cc1b73b",
+      "ClientInfoString": "Client=/owa/SuiteServiceProxy.aspx; Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+      "ClientIPAddress": "118.69.37.9",
+      "Version": 1,
+      "Operation": "MailboxLogin",
+      "MailboxGuid": "18dd63fe-8a71-4fbc-ab2b-7ec648f51402"
+   },
+   {
+      "OrganizationId": "f25d48e2-7067-4495-b6ee-662ebbcf17d3",
+      "ResultStatus": "Succeeded",
+      "LogonUserSid": "S-1-5-21-1891582377-245995859-4138830119-8843859",
+      "RecordType": 2,
+      "OrganizationName": "fptsi.vn",
+      "MailboxOwnerUPN": "ThiHNN@fptsi.vn",
+      "UserType": 0,
+      "LogonType": 0,
+      "InternalLogonType": 0,
+      "MailboxOwnerSid": "S-1-5-21-1891582377-245995859-4138830119-8843859",
+      "UserKey": "1003BFFD9CAF0C00",
+      "ExternalAccess": false,
+      "UserId": "ThiHNN@fptsi.vn",
+      "CreationTime": "2017-05-17T02:54:56",
+      "Workload": "Exchange",
+      "OriginatingServer": "KL1PR01MB0936",
+      "Id": "cd36a51b-3ecf-40df-aaf4-08d49cd019b1",
+      "ClientInfoString": "Client=/owa/SuiteServiceProxy.aspx; Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.3; WOW64; Trident/7.0; .NET4.0E; .NET4.0C)",
+      "ClientIPAddress": "118.69.34.232",
+      "Version": 1,
+      "Operation": "MailboxLogin",
+      "MailboxGuid": "9263659e-a1dc-4d67-97be-250a20855db3"
+   },
+   {
+      "OrganizationId": "f25d48e2-7067-4495-b6ee-662ebbcf17d3",
+      "ResultStatus": "Succeeded",
+      "LogonUserSid": "S-1-5-21-1891582377-245995859-4138830119-9387332",
+      "RecordType": 2,
+      "OrganizationName": "fptsi.vn",
+      "MailboxOwnerUPN": "duynn@fptsi.vn",
+      "UserType": 0,
+      "LogonType": 0,
+      "InternalLogonType": 0,
+      "MailboxOwnerSid": "S-1-5-21-1891582377-245995859-4138830119-9387332",
+      "UserKey": "10033FFF9F53F6F8",
+      "ExternalAccess": false,
+      "UserId": "duynn@fptsi.vn",
+      "CreationTime": "2017-05-17T04:10:48",
+      "Workload": "Exchange",
+      "OriginatingServer": "KL1PR01MB0997",
+      "Id": "6890e44f-a884-4d6e-d6d3-08d49cdab2cb",
+      "ClientInfoString": "Client=/owa/; Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+      "ClientIPAddress": "118.69.37.9",
+      "Version": 1,
+      "Operation": "MailboxLogin",
+      "MailboxGuid": "18dd63fe-8a71-4fbc-ab2b-7ec648f51402"
+   },
+   {
+      "OrganizationId": "f25d48e2-7067-4495-b6ee-662ebbcf17d3",
+      "ResultStatus": "Succeeded",
+      "LogonUserSid": "S-1-5-21-1891582377-245995859-4138830119-9387332",
+      "RecordType": 2,
+      "OrganizationName": "fptsi.vn",
+      "MailboxOwnerUPN": "duynn@fptsi.vn",
+      "UserType": 0,
+      "LogonType": 0,
+      "InternalLogonType": 0,
+      "MailboxOwnerSid": "S-1-5-21-1891582377-245995859-4138830119-9387332",
+      "UserKey": "10033FFF9F53F6F8",
+      "ExternalAccess": false,
+      "UserId": "duynn@fptsi.vn",
+      "CreationTime": "2017-05-17T04:10:47",
+      "Workload": "Exchange",
+      "OriginatingServer": "KL1PR01MB0997",
+      "Id": "722ade72-7a75-4b4a-3418-08d49cdab29a",
+      "ClientInfoString": "Client=/owa/SuiteServiceProxy.aspx; Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+      "ClientIPAddress": "118.69.37.9",
+      "Version": 1,
+      "Operation": "MailboxLogin",
+      "MailboxGuid": "18dd63fe-8a71-4fbc-ab2b-7ec648f51402"
+   },
+   {
+      "OrganizationId": "f25d48e2-7067-4495-b6ee-662ebbcf17d3",
+      "ResultStatus": "Succeeded",
+      "LogonUserSid": "S-1-5-21-1891582377-245995859-4138830119-8684406",
+      "RecordType": 2,
+      "OrganizationName": "FPTISEnterprise.onmicrosoft.com",
+      "MailboxOwnerUPN": "sysadmin@FPTISEnterprise.onmicrosoft.com",
+      "UserType": 0,
+      "LogonType": 0,
+      "InternalLogonType": 0,
+      "MailboxOwnerSid": "S-1-5-21-1891582377-245995859-4138830119-8684406",
+      "UserKey": "10037FFE9B90944D",
+      "ExternalAccess": false,
+      "UserId": "sysadmin@FPTISEnterprise.onmicrosoft.com",
+      "CreationTime": "2017-05-17T04:47:50",
+      "Workload": "Exchange",
+      "OriginatingServer": "HK2PR01MB1028",
+      "Id": "8f0a4eaa-40f9-443c-f878-08d49cdfdf3b",
+      "ClientInfoString": "Client=/owa/SuiteServiceProxy.aspx; Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko",
+      "ClientIPAddress": "118.69.37.9",
+      "Version": 1,
+      "Operation": "MailboxLogin",
+      "MailboxGuid": "4e1b3fd6-ed36-4993-bfe6-315f7a227c3a"
+   },
+   {
+      "OrganizationId": "f25d48e2-7067-4495-b6ee-662ebbcf17d3",
+      "ResultStatus": "Succeeded",
+      "LogonUserSid": "S-1-5-21-1891582377-245995859-4138830119-8684406",
+      "RecordType": 2,
+      "OrganizationName": "FPTISEnterprise.onmicrosoft.com",
+      "MailboxOwnerUPN": "sysadmin@FPTISEnterprise.onmicrosoft.com",
+      "UserType": 0,
+      "LogonType": 0,
+      "InternalLogonType": 0,
+      "MailboxOwnerSid": "S-1-5-21-1891582377-245995859-4138830119-8684406",
+      "UserKey": "10037FFE9B90944D",
+      "ExternalAccess": false,
+      "UserId": "sysadmin@FPTISEnterprise.onmicrosoft.com",
+      "CreationTime": "2017-05-17T04:47:52",
+      "Workload": "Exchange",
+      "OriginatingServer": "HK2PR01MB1028",
+      "Id": "a7593d17-83e6-405c-149a-08d49cdfe0a2",
+      "ClientInfoString": "Client=/owa/SuiteServiceProxy.aspx; Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko",
+      "ClientIPAddress": "118.69.37.9",
+      "Version": 1,
+      "Operation": "MailboxLogin",
+      "MailboxGuid": "4e1b3fd6-ed36-4993-bfe6-315f7a227c3a"
+   },
+   {
+      "OrganizationId": "f25d48e2-7067-4495-b6ee-662ebbcf17d3",
+      "ResultStatus": "Succeeded",
+      "LogonUserSid": "S-1-5-21-1891582377-245995859-4138830119-8684406",
+      "RecordType": 2,
+      "OrganizationName": "FPTISEnterprise.onmicrosoft.com",
+      "MailboxOwnerUPN": "sysadmin@FPTISEnterprise.onmicrosoft.com",
+      "UserType": 0,
+      "LogonType": 0,
+      "InternalLogonType": 0,
+      "MailboxOwnerSid": "S-1-5-21-1891582377-245995859-4138830119-8684406",
+      "UserKey": "10037FFE9B90944D",
+      "ExternalAccess": false,
+      "UserId": "sysadmin@FPTISEnterprise.onmicrosoft.com",
+      "CreationTime": "2017-05-17T04:47:59",
+      "Workload": "Exchange",
+      "OriginatingServer": "HK2PR01MB1028",
+      "Id": "33251c67-1842-4204-4045-08d49cdfe482",
+      "ClientInfoString": "Client=/ecp/; Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 10.0; WOW64; Trident/7.0)",
+      "ClientIPAddress": "118.69.37.9",
+      "Version": 1,
+      "Operation": "MailboxLogin",
+      "MailboxGuid": "4e1b3fd6-ed36-4993-bfe6-315f7a227c3a"
+   },
+   {
+      "OrganizationId": "f25d48e2-7067-4495-b6ee-662ebbcf17d3",
+      "ResultStatus": "True",
+      "ExternalAccess": true,
+      "ObjectId": "\\fe93bfe1-7947-460a-a5e0-7a5906b51360",
+      "UserKey": "PRDTSB01\\cwarren_debug",
+      "Workload": "Exchange",
+      "RecordType": 1,
+      "OriginatingServer": "SG2PR01MB1023 (15.01.1101.000)",
+      "OrganizationName": "FPTISEnterprise.onmicrosoft.com",
+      "UserType": 3,
+      "Id": "0d0560d7-9567-4542-0de7-08d49f2d6a83",
+      "Parameters": [
+         {
+            "Value": "True",
+            "Name": "OrganizationApp"
+         },
+         {
+            "Value": "FPTISEnterprise.onmicrosoft.com",
+            "Name": "Organization"
+         },
+         {
+            "Value": "Enabled",
+            "Name": "DefaultStateForUser"
+         },
+         {
+            "Value": "https://agavecdn.o365weve.com/manifest/Delve Analytics Official .xml",
+            "Name": "Url"
+         }
+      ],
+      "UserId": "PRDTSB01\\cwarren_debug",
+      "Version": 1,
+      "Operation": "New-App",
+      "CreationTime": "2017-05-20T03:07:57"
+   },
+   {
+      "OrganizationId": "f25d48e2-7067-4495-b6ee-662ebbcf17d3",
+      "ResultStatus": "True",
+      "ExternalAccess": true,
+      "ObjectId": "FPTISEnterprise.onmicrosoft.com",
+      "UserKey": "NT AUTHORITY\\SYSTEM (Microsoft.Exchange.ServiceHost)",
+      "Workload": "Exchange",
+      "RecordType": 1,
+      "OriginatingServer": "PS1PR01MB0668 (15.01.1101.000)",
+      "OrganizationName": "FPTISEnterprise.onmicrosoft.com",
+      "UserType": 3,
+      "Id": "7d39a670-8829-4770-3182-08d49f7c52bf",
+      "Parameters": [
+         {
+            "Value": "True",
+            "Name": "DoNotUpdateRecipients"
+         },
+         {
+            "Value": "",
+            "Name": "DomainController"
+         },
+         {
+            "Value": "APCPR01A004.prod.outlook.com/Microsoft Exchange Hosted Organizations/FPTISEnterprise.onmicrosoft.com",
+            "Name": "Identity"
+         }
+      ],
+      "UserId": "NT AUTHORITY\\SYSTEM (Microsoft.Exchange.ServiceHost)",
+      "Version": 1,
+      "Operation": "Enable-AddressListPaging",
+      "CreationTime": "2017-05-20T12:32:47"
+   },
+   {
+      "OrganizationId": "f25d48e2-7067-4495-b6ee-662ebbcf17d3",
+      "ResultStatus": "True",
+      "ExternalAccess": true,
+      "ObjectId": "FPTISEnterprise.onmicrosoft.com\\ExchangeAssistance",
+      "UserKey": "NT AUTHORITY\\SYSTEM (Microsoft.Exchange.ServiceHost)",
+      "Workload": "Exchange",
+      "RecordType": 1,
+      "OriginatingServer": "PS1PR01MB0668 (15.01.1101.000)",
+      "OrganizationName": "FPTISEnterprise.onmicrosoft.com",
+      "UserType": 3,
+      "Id": "aa9b9d8c-4247-4827-ac7a-08d49f7c545b",
+      "Parameters": [
+         {
+            "Value": "",
+            "Name": "DomainController"
+         },
+         {
+            "Value": "FPTISEnterprise.onmicrosoft.com",
+            "Name": "Organization"
+         },
+         {
+            "Value": "True",
+            "Name": "IgnoreDehydratedFlag"
+         }
+      ],
+      "UserId": "NT AUTHORITY\\SYSTEM (Microsoft.Exchange.ServiceHost)",
+      "Version": 1,
+      "Operation": "New-ExchangeAssistanceConfig",
+      "CreationTime": "2017-05-20T12:32:50"
+   },
+   {
+      "OrganizationId": "f25d48e2-7067-4495-b6ee-662ebbcf17d3",
+      "ResultStatus": "True",
+      "ExternalAccess": true,
+      "ObjectId": "FPTISEnterprise.onmicrosoft.com\\Transport Settings",
+      "UserKey": "NT AUTHORITY\\SYSTEM (Microsoft.Exchange.ServiceHost)",
+      "Workload": "Exchange",
+      "RecordType": 1,
+      "OriginatingServer": "PS1PR01MB0668 (15.01.1101.000)",
+      "OrganizationName": "FPTISEnterprise.onmicrosoft.com",
+      "UserType": 3,
+      "Id": "5dcfa491-f06f-43cf-32a4-08d49f7c56e4",
+      "Parameters": [
+         {
+            "Value": "",
+            "Name": "DomainController"
+         },
+         {
+            "Value": "APCPR01A004.prod.outlook.com/Microsoft Exchange Hosted Organizations/FPTISEnterprise.onmicrosoft.com",
+            "Name": "Identity"
+         },
+         {
+            "Value": "Reject;Allow",
+            "Name": "SupervisionTags"
+         }
+      ],
+      "UserId": "NT AUTHORITY\\SYSTEM (Microsoft.Exchange.ServiceHost)",
+      "Version": 1,
+      "Operation": "Set-TransportConfig",
+      "CreationTime": "2017-05-20T12:32:54"
+   },
+   {
+      "OrganizationId": "f25d48e2-7067-4495-b6ee-662ebbcf17d3",
+      "ResultStatus": "True",
+      "ExternalAccess": true,
+      "ObjectId": "FPTISEnterprise.onmicrosoft.com\\Resource Schema",
+      "UserKey": "NT AUTHORITY\\SYSTEM (Microsoft.Exchange.ServiceHost)",
+      "Workload": "Exchange",
+      "RecordType": 1,
+      "OriginatingServer": "PS1PR01MB0668 (15.01.1101.000)",
+      "OrganizationName": "FPTISEnterprise.onmicrosoft.com",
+      "UserType": 3,
+      "Id": "35978193-0c34-4d8a-b910-08d49f7c6ec0",
+      "Parameters": [
+         {
+            "Value": "",
+            "Name": "DomainController"
+         },
+         {
+            "Value": "FPTISEnterprise.onmicrosoft.com",
+            "Name": "Organization"
+         }
+      ],
+      "UserId": "NT AUTHORITY\\SYSTEM (Microsoft.Exchange.ServiceHost)",
+      "Version": 1,
+      "Operation": "Install-ResourceConfig",
+      "CreationTime": "2017-05-20T12:33:34"
+   },
+   {
+      "OrganizationId": "f25d48e2-7067-4495-b6ee-662ebbcf17d3",
+      "ResultStatus": "Succeeded",
+      "LogonUserSid": "S-1-5-21-1891582377-245995859-4138830119-9007863",
+      "RecordType": 2,
+      "OrganizationName": "fptsi.vn",
+      "MailboxOwnerUPN": "HuyPD@fptsi.vn",
+      "UserType": 0,
+      "LogonType": 0,
+      "InternalLogonType": 0,
+      "MailboxOwnerSid": "S-1-5-21-1891582377-245995859-4138830119-9007863",
+      "UserKey": "1003BFFD9CD53E48",
+      "ExternalAccess": false,
+      "UserId": "HuyPD@fptsi.vn",
+      "CreationTime": "2017-05-21T13:16:07",
+      "Workload": "Exchange",
+      "OriginatingServer": "KL1PR01MB0920",
+      "Id": "7b252ccd-943a-4cfd-5c70-08d4a04b8a7e",
+      "ClientInfoString": "Client=/owa/SuiteServiceProxy.aspx; Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko",
+      "ClientIPAddress": "116.102.47.215",
+      "Version": 1,
+      "Operation": "MailboxLogin",
+      "MailboxGuid": "9778494d-a06f-417b-9ec3-34d6bf8361a0"
+   },
+   {
+      "OrganizationId": "f25d48e2-7067-4495-b6ee-662ebbcf17d3",
+      "ResultStatus": "Succeeded",
+      "LogonUserSid": "S-1-5-21-1891582377-245995859-4138830119-9191968",
+      "RecordType": 2,
+      "OrganizationName": "fptsi.vn",
+      "MailboxOwnerUPN": "Testuser02@fptsi.vn",
+      "UserType": 0,
+      "LogonType": 0,
+      "InternalLogonType": 0,
+      "MailboxOwnerSid": "S-1-5-21-1891582377-245995859-4138830119-9191968",
+      "UserKey": "100300009E5500ED",
+      "ExternalAccess": false,
+      "UserId": "Testuser02@fptsi.vn",
+      "CreationTime": "2017-05-21T13:23:39",
+      "Workload": "Exchange",
+      "OriginatingServer": "SG2PR01MB1296",
+      "Id": "a9d1db09-33db-4a97-9fdb-08d4a04c983f",
+      "ClientInfoString": "Client=/owa/SuiteServiceProxy.aspx; Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko",
+      "ClientIPAddress": "116.102.47.215",
+      "Version": 1,
+      "Operation": "MailboxLogin",
+      "MailboxGuid": "6ca2b64e-bc6c-4627-914a-5a9887f79ee9"
+   },
+   {
+      "OrganizationId": "f25d48e2-7067-4495-b6ee-662ebbcf17d3",
+      "ResultStatus": "Succeeded",
+      "LogonUserSid": "S-1-5-21-1891582377-245995859-4138830119-8684406",
+      "RecordType": 2,
+      "OrganizationName": "FPTISEnterprise.onmicrosoft.com",
+      "MailboxOwnerUPN": "sysadmin@FPTISEnterprise.onmicrosoft.com",
+      "UserType": 0,
+      "LogonType": 0,
+      "InternalLogonType": 0,
+      "MailboxOwnerSid": "S-1-5-21-1891582377-245995859-4138830119-8684406",
+      "UserKey": "10037FFE9B90944D",
+      "ExternalAccess": false,
+      "UserId": "sysadmin@FPTISEnterprise.onmicrosoft.com",
+      "CreationTime": "2017-05-21T13:29:56",
+      "Workload": "Exchange",
+      "OriginatingServer": "HK2PR01MB1028",
+      "Id": "041019cf-6968-480c-2298-08d4a04d7877",
+      "ClientInfoString": "Client=/owa/SuiteServiceProxy.aspx; Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko",
+      "ClientIPAddress": "116.102.47.215",
+      "Version": 1,
+      "Operation": "MailboxLogin",
+      "MailboxGuid": "4e1b3fd6-ed36-4993-bfe6-315f7a227c3a"
+   },
+   {
+      "OrganizationId": "f25d48e2-7067-4495-b6ee-662ebbcf17d3",
+      "ResultStatus": "True",
+      "ExternalAccess": true,
+      "ObjectId": "APCPR01A004.prod.outlook.com/Microsoft Exchange Hosted Organizations/FPTISEnterprise.onmicrosoft.com/Testuser02",
+      "UserKey": "DevilFish-ApplicationAccount@apcprd01.prod.exchangelabs.com",
+      "Workload": "Exchange",
+      "RecordType": 1,
+      "OriginatingServer": "KL1PR01MB1109 (15.01.1101.000)",
+      "OrganizationName": "FPTISEnterprise.onmicrosoft.com",
+      "UserType": 3,
+      "Id": "2fa03718-4374-4f18-da3c-08d4a04d95b7",
+      "Parameters": [
+         {
+            "Value": "Testuser02@fptsi.vn",
+            "Name": "Identity"
+         },
+         {
+            "Value": "SPO:SPO_a258c79e-e4b5-46c2-bf7f-3243b99ad5ba@SPO_f25d48e2-7067-4495-b6ee-662ebbcf17d3",
+            "Name": "EmailAddresses"
+         }
+      ],
+      "UserId": "DevilFish-ApplicationAccount@apcprd01.prod.exchangelabs.com",
+      "Version": 1,
+      "Operation": "Set-SyncUser",
+      "CreationTime": "2017-05-21T13:30:45"
+   },
+   {
+      "OrganizationId": "f25d48e2-7067-4495-b6ee-662ebbcf17d3",
+      "ResultStatus": "Succeeded",
+      "LogonUserSid": "S-1-5-21-1891582377-245995859-4138830119-8684406",
+      "RecordType": 2,
+      "OrganizationName": "FPTISEnterprise.onmicrosoft.com",
+      "MailboxOwnerUPN": "sysadmin@FPTISEnterprise.onmicrosoft.com",
+      "UserType": 0,
+      "LogonType": 0,
+      "InternalLogonType": 0,
+      "MailboxOwnerSid": "S-1-5-21-1891582377-245995859-4138830119-8684406",
+      "UserKey": "10037FFE9B90944D",
+      "ExternalAccess": false,
+      "UserId": "sysadmin@FPTISEnterprise.onmicrosoft.com",
+      "CreationTime": "2017-05-21T13:29:57",
+      "Workload": "Exchange",
+      "OriginatingServer": "HK2PR01MB1028",
+      "Id": "68acc66d-f44f-45ad-6652-08d4a04d799c",
+      "ClientInfoString": "Client=/owa/SuiteServiceProxy.aspx; Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko",
+      "ClientIPAddress": "116.102.47.215",
+      "Version": 1,
+      "Operation": "MailboxLogin",
+      "MailboxGuid": "4e1b3fd6-ed36-4993-bfe6-315f7a227c3a"
+   },
+   {
+      "OrganizationId": "f25d48e2-7067-4495-b6ee-662ebbcf17d3",
+      "ResultStatus": "Succeeded",
+      "LogonUserSid": "S-1-5-21-1891582377-245995859-4138830119-9007863",
+      "RecordType": 2,
+      "OrganizationName": "fptsi.vn",
+      "MailboxOwnerUPN": "HuyPD@fptsi.vn",
+      "UserType": 0,
+      "LogonType": 0,
+      "InternalLogonType": 0,
+      "MailboxOwnerSid": "S-1-5-21-1891582377-245995859-4138830119-9007863",
+      "UserKey": "1003BFFD9CD53E48",
+      "ExternalAccess": false,
+      "UserId": "HuyPD@fptsi.vn",
+      "CreationTime": "2017-05-21T13:33:50",
+      "Workload": "Exchange",
+      "OriginatingServer": "KL1PR01MB0920",
+      "Id": "6c5e8420-52df-446a-fec2-08d4a04e041c",
+      "ClientInfoString": "Client=/owa/SuiteServiceProxy.aspx; Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko",
+      "ClientIPAddress": "116.102.47.215",
+      "Version": 1,
+      "Operation": "MailboxLogin",
+      "MailboxGuid": "9778494d-a06f-417b-9ec3-34d6bf8361a0"
+   },
+   {
+      "OrganizationId": "f25d48e2-7067-4495-b6ee-662ebbcf17d3",
+      "ResultStatus": "Succeeded",
+      "LogonUserSid": "S-1-5-21-1891582377-245995859-4138830119-9387332",
+      "RecordType": 2,
+      "OrganizationName": "fptsi.vn",
+      "MailboxOwnerUPN": "duynn@fptsi.vn",
+      "UserType": 0,
+      "LogonType": 0,
+      "InternalLogonType": 0,
+      "MailboxOwnerSid": "S-1-5-21-1891582377-245995859-4138830119-9387332",
+      "UserKey": "10033FFF9F53F6F8",
+      "ExternalAccess": false,
+      "UserId": "duynn@fptsi.vn",
+      "CreationTime": "2017-05-22T03:25:00",
+      "Workload": "Exchange",
+      "OriginatingServer": "KL1PR01MB0997",
+      "Id": "d7cb26e5-9431-488f-29ff-08d4a0c220db",
+      "ClientInfoString": "Client=/owa/SuiteServiceProxy.aspx; Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0",
+      "ClientIPAddress": "118.69.37.9",
+      "Version": 1,
+      "Operation": "MailboxLogin",
+      "MailboxGuid": "18dd63fe-8a71-4fbc-ab2b-7ec648f51402"
+   }
+]

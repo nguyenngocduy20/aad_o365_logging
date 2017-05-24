@@ -1,0 +1,44 @@
+input {
+  exec {
+    command => "cat /logs/aad_audit_log.json"
+    codec => json
+    interval => 60
+    type => "aadlog"
+  }
+  exec {
+    command => "cat /logs/aad_signin_activity_log.json"
+    codec => json
+    interval => 60
+    type => "aadsignin"
+  }
+  exec {
+    command => "cat /logs/exchange_audit_log.json"
+    codec => json
+    interval => 60
+    type => "exchangeaudit"
+  }
+}
+
+output {
+  if [type] == "aadlog" {
+    elasticsearch {
+      hosts => "elasticsearch:9200"
+      index => "aadlog-%{+YYYY.MM.dd}"
+      document_id => "%{id}-%{activityDateInMillis}"
+    }
+  }
+  if [type] == "aadsignin" {
+    elasticsearch {
+      hosts => "elasticsearch:9200"
+      index => "aadsignin-%{+YYYY.MM.dd}"
+      document_id => "%{id}-%{signinDateTimeInMillis}"
+    }
+  }
+  if [type] == "exchangeaudit" {
+    elasticsearch {
+      hosts => "elasticsearch:9200"
+      index => "exchangeaudit-%{+YYYY.MM.dd}"
+      document_id => "%{Id}-%{CreationTime}"
+    }
+  }
+}

@@ -1,0 +1,254 @@
+[
+   {
+      "Operation": "ForeignRealmIndexLogonInitialAuthUsingADFSFederatedToken",
+      "Version": 1,
+      "ResultStatus": "success",
+      "Workload": "AzureActiveDirectory",
+      "RecordType": 9,
+      "CreationTime": "2017-05-09T01:38:44",
+      "ClientIP": "118.69.37.9",
+      "Id": "a3f0d978-919e-4132-ac9f-aca351a1e7fa",
+      "UserType": 0,
+      "UserId": "test3004@fptsi.vn",
+      "UserDomain": "fptsi.vn",
+      "ObjectId": "test3004@fptsi.vn",
+      "AzureActiveDirectoryEventType": 0,
+      "OrganizationId": "f25d48e2-7067-4495-b6ee-662ebbcf17d3",
+      "Client": "Internet Explorer 9 and earlier or compatible",
+      "LoginStatus": 0,
+      "UserKey": "1153765932243923359@fptsi.vn"
+   },
+   {
+      "Operation": "PasswordLogonInitialAuthUsingPassword",
+      "Version": 1,
+      "ResultStatus": "success",
+      "Workload": "AzureActiveDirectory",
+      "RecordType": 9,
+      "CreationTime": "2017-05-09T09:51:23",
+      "ClientIP": "113.160.244.248",
+      "Id": "3fbae645-9935-4ee2-8e9a-5dafa832a51c",
+      "UserType": 0,
+      "UserId": "NhutNH4@fptsi.vn",
+      "UserDomain": "fptsi.vn",
+      "ObjectId": "NhutNH4@fptsi.vn",
+      "AzureActiveDirectoryEventType": 0,
+      "OrganizationId": "f25d48e2-7067-4495-b6ee-662ebbcf17d3",
+      "Client": "Office 15 Excel",
+      "LoginStatus": 0,
+      "UserKey": "1153977025518923260@fptsi.vn"
+   },
+   {
+      "Operation": "PasswordLogonInitialAuthUsingPassword",
+      "Version": 1,
+      "ResultStatus": "failed",
+      "Workload": "AzureActiveDirectory",
+      "RecordType": 9,
+      "CreationTime": "2017-05-09T12:04:49",
+      "ClientIP": "116.108.117.104",
+      "Id": "4fa1574a-9ad0-44e0-9e44-3af76e4da04e",
+      "UserType": 0,
+      "UserId": "NhutNH4@fptsi.vn",
+      "UserDomain": "fptsi.vn",
+      "ObjectId": "NhutNH4@fptsi.vn",
+      "ExtendedProperties": [
+         {
+            "Name": "LoginError",
+            "Value": "-2147217390;PP_E_BAD_PASSWORD;The entered and stored passwords do not match."
+         }
+      ],
+      "AzureActiveDirectoryEventType": 0,
+      "OrganizationId": "f25d48e2-7067-4495-b6ee-662ebbcf17d3",
+      "Client": "Office 15 Access, Groove, InfoPath, Publisher, OneNote, SkyDrive, and Visio",
+      "LoginStatus": -2147217390,
+      "UserKey": "1153977025518923260@fptsi.vn"
+   },
+   {
+      "Operation": "PasswordLogonInitialAuthUsingPassword",
+      "Version": 1,
+      "ResultStatus": "failed",
+      "Workload": "AzureActiveDirectory",
+      "RecordType": 9,
+      "CreationTime": "2017-05-10T01:54:09",
+      "ClientIP": "118.70.22.147",
+      "Id": "f6a4bdff-b5bc-490b-afaa-88566019bee7",
+      "UserType": 0,
+      "UserId": "test01@fptsi.vn",
+      "UserDomain": "fptsi.vn",
+      "ObjectId": "test01@fptsi.vn",
+      "ExtendedProperties": [
+         {
+            "Name": "LoginError",
+            "Value": "-2147208100;PP_E_INTERRUPT;An interrupt was encountered that could not be handled."
+         }
+      ],
+      "AzureActiveDirectoryEventType": 0,
+      "OrganizationId": "f25d48e2-7067-4495-b6ee-662ebbcf17d3",
+      "Client": "Exchange",
+      "LoginStatus": -2147208100,
+      "UserKey": "1153836296683652360@fptsi.vn"
+   },
+   {
+      "Operation": "PasswordLogonCookieCopyUsingDAToken",
+      "Version": 1,
+      "ResultStatus": "success",
+      "Workload": "AzureActiveDirectory",
+      "RecordType": 9,
+      "CreationTime": "2017-05-10T02:15:18",
+      "ClientIP": "118.69.37.9",
+      "Id": "d2689640-94ba-4b86-aea9-a385ee833553",
+      "UserType": 0,
+      "UserId": "duynn@fptsi.vn",
+      "UserDomain": "fptsi.vn",
+      "ObjectId": "duynn@fptsi.vn",
+      "AzureActiveDirectoryEventType": 0,
+      "OrganizationId": "f25d48e2-7067-4495-b6ee-662ebbcf17d3",
+      "Client": "Internet Explorer 9 and earlier or compatible",
+      "LoginStatus": 0,
+      "Application": "MOS",
+      "UserKey": "1153836296659269368@fptsi.vn"
+   },
+   {
+      "Operation": "PasswordLogonInitialAuthUsingPassword",
+      "Version": 1,
+      "ResultStatus": "failed",
+      "Workload": "AzureActiveDirectory",
+      "RecordType": 9,
+      "CreationTime": "2017-05-10T02:32:52",
+      "ClientIP": "115.78.135.20",
+      "Id": "a7b4e909-b577-422a-80f6-babfd80afabc",
+      "UserType": 0,
+      "UserId": "NhutNH4@fptsi.vn",
+      "UserDomain": "fptsi.vn",
+      "ObjectId": "NhutNH4@fptsi.vn",
+      "ExtendedProperties": [
+         {
+            "Name": "LoginError",
+            "Value": "-2147217390;PP_E_BAD_PASSWORD;The entered and stored passwords do not match."
+         }
+      ],
+      "AzureActiveDirectoryEventType": 0,
+      "OrganizationId": "f25d48e2-7067-4495-b6ee-662ebbcf17d3",
+      "Client": "Office 15 Access, Groove, InfoPath, Publisher, OneNote, SkyDrive, and Visio",
+      "LoginStatus": -2147217390,
+      "UserKey": "1153977025518923260@fptsi.vn"
+   },
+   {
+      "Operation": "PasswordLogonInitialAuthUsingPassword",
+      "Version": 1,
+      "ResultStatus": "failed",
+      "Workload": "AzureActiveDirectory",
+      "RecordType": 9,
+      "CreationTime": "2017-05-10T10:08:14",
+      "ClientIP": "52.163.213.202",
+      "Id": "77c6a546-db1e-489a-9ff5-f3800382cf6a",
+      "UserType": 0,
+      "UserId": "dattt29@FPTISEnterprise.onmicrosoft.com",
+      "UserDomain": "fptsi.vn",
+      "ObjectId": "dattt29@FPTISEnterprise.onmicrosoft.com",
+      "ExtendedProperties": [
+         {
+            "Name": "LoginError",
+            "Value": "-2147217390;PP_E_BAD_PASSWORD;The entered and stored passwords do not match."
+         }
+      ],
+      "AzureActiveDirectoryEventType": 0,
+      "OrganizationId": "f25d48e2-7067-4495-b6ee-662ebbcf17d3",
+      "Client": "Exchange",
+      "LoginStatus": -2147217390,
+      "UserKey": "1153836296691828807@fptsi.vn"
+   },
+   {
+      "Operation": "PasswordLogonInitialAuthUsingPassword",
+      "Version": 1,
+      "ResultStatus": "failed",
+      "Workload": "AzureActiveDirectory",
+      "RecordType": 9,
+      "CreationTime": "2017-05-10T10:44:11",
+      "ClientIP": "13.67.62.249",
+      "Id": "2b11d5bd-37d5-4fb6-b7b5-bcce3817a897",
+      "UserType": 0,
+      "UserId": "mon1@FPTISEnterprise.onmicrosoft.com",
+      "UserDomain": "fptsi.vn",
+      "ObjectId": "mon1@FPTISEnterprise.onmicrosoft.com",
+      "ExtendedProperties": [
+         {
+            "Name": "LoginError",
+            "Value": "-2147217390;PP_E_BAD_PASSWORD;The entered and stored passwords do not match."
+         }
+      ],
+      "AzureActiveDirectoryEventType": 0,
+      "OrganizationId": "f25d48e2-7067-4495-b6ee-662ebbcf17d3",
+      "Client": "Exchange",
+      "LoginStatus": -2147217390,
+      "UserKey": "1153836296693831107@fptsi.vn"
+   },
+   {
+      "Operation": "PasswordLogonInitialAuthUsingPassword",
+      "Version": 1,
+      "ResultStatus": "failed",
+      "Workload": "AzureActiveDirectory",
+      "RecordType": 9,
+      "CreationTime": "2017-05-10T11:32:19",
+      "ClientIP": "115.78.135.20",
+      "Id": "9baf56d4-543f-4285-bbab-3e96abacc1f2",
+      "UserType": 0,
+      "UserId": "NhutNH4@fptsi.vn",
+      "UserDomain": "fptsi.vn",
+      "ObjectId": "NhutNH4@fptsi.vn",
+      "ExtendedProperties": [
+         {
+            "Name": "LoginError",
+            "Value": "-2147217390;PP_E_BAD_PASSWORD;The entered and stored passwords do not match."
+         }
+      ],
+      "AzureActiveDirectoryEventType": 0,
+      "OrganizationId": "f25d48e2-7067-4495-b6ee-662ebbcf17d3",
+      "Client": "Office 15 Access, Groove, InfoPath, Publisher, OneNote, SkyDrive, and Visio",
+      "LoginStatus": -2147217390,
+      "UserKey": "1153977025518923260@fptsi.vn"
+   },
+   {
+      "Operation": "PasswordLogonInitialAuthUsingPassword",
+      "Version": 1,
+      "ResultStatus": "failed",
+      "Workload": "AzureActiveDirectory",
+      "RecordType": 9,
+      "CreationTime": "2017-05-10T14:02:10",
+      "ClientIP": "42.117.204.115",
+      "Id": "fa643145-cab4-42a3-8339-20ffa29f8724",
+      "UserType": 0,
+      "UserId": "test01@fptsi.vn",
+      "UserDomain": "fptsi.vn",
+      "ObjectId": "test01@fptsi.vn",
+      "ExtendedProperties": [
+         {
+            "Name": "LoginError",
+            "Value": "-2147208100;PP_E_INTERRUPT;An interrupt was encountered that could not be handled."
+         }
+      ],
+      "AzureActiveDirectoryEventType": 0,
+      "OrganizationId": "f25d48e2-7067-4495-b6ee-662ebbcf17d3",
+      "Client": "Exchange",
+      "LoginStatus": -2147208100,
+      "UserKey": "1153836296683652360@fptsi.vn"
+   },
+   {
+      "Operation": "PasswordLogonInitialAuthUsingPassword",
+      "Version": 1,
+      "ResultStatus": "success",
+      "Workload": "AzureActiveDirectory",
+      "RecordType": 9,
+      "CreationTime": "2017-05-10T16:00:47",
+      "ClientIP": "116.105.136.179",
+      "Id": "f27f02bf-ece1-477d-b03d-19cbb8d41cb8",
+      "UserType": 0,
+      "UserId": "NhutNH4@fptsi.vn",
+      "UserDomain": "fptsi.vn",
+      "ObjectId": "NhutNH4@fptsi.vn",
+      "AzureActiveDirectoryEventType": 0,
+      "OrganizationId": "f25d48e2-7067-4495-b6ee-662ebbcf17d3",
+      "Client": "Office 15 Outlook",
+      "LoginStatus": 0,
+      "UserKey": "1153977025518923260@fptsi.vn"
+   }
+]

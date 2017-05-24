@@ -1,0 +1,14 @@
+input {
+  file {
+    path => [ "/var/log/*.log", "/var/log/messages", "/var/log/syslog" ]
+    type => "syslog"
+  }
+}
+
+output {
+  redis {
+    host => "172.17.0.2:6379"
+    data_type => list
+    key => "logstash"
+  }
+}
