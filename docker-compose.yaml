@@ -1,0 +1,23 @@
+version: "3"
+services:
+   elasticsearch:
+      container_name: elasticsearch
+      image: elasticsearch
+      volumes:
+         - ./es/data:/usr/share/elasticsearch/data
+      ports:
+         - "9200:9200"
+   logstash:
+      container_name: logstash_forwarder
+      image: logstash
+      volumes:
+         - ./logstash-forwarder/config:/config-dir
+         - ./logs:/logs
+      command: -f /config-dir/logstash.conf.2
+   kibana:
+      container_name: kibana
+      image: kibana
+      environment:
+         ELASTICSEARCH_URL: 'http://elasticsearch:9200'
+      ports:
+         - "5601:5601"
